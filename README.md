@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbararacha&label=Profile%20views&color=0e75b6&style=flat" alt="barbararacha" /> </p>
 
-- 🔭 I’m currently working on **Arabic Text Sentiment Analysis and Opinion Mining project using LLMs**
+- 🔭 I’m currently working on **Mental Health AI Chatbot Assistant Using BiLSTM**
 
 - 👯 I’m looking to collaborate on **Data Science Projects / Distributed Systems Projects**
 
