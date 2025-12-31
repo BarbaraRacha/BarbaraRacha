@@ -19,25 +19,14 @@
 
 ### 🔭 Current Focus  
 
-- 🤖 **Mental Health AI Chatbot Assistant** using **BiLSTM**
-- ☁️ **Salesforce CRM Development** (LWC, Apex, SOQL)
-- 🌐 **Microservices & Distributed Systems**
+- 💻 **Full-Stack Web Development**
+(Java / Spring Boot · Angular · React · REST APIs)
 
----
+- 🌐 **Distributed Systems & Microservices**
+(Spring Cloud, Kafka, scalable architectures)
 
-### 💼 Professional Experience  
-
-- **Salesforce Developer Intern – Capgemini TS**  
-  CRM Salesforce application for **AXA Assurances**  
-  *(LWC, Apex, SOQL, Agile/Scrum, Salesforce CLI)*
-
-- **Full-Stack Developer & AI Intern – 3D Smart Factory**  
-  3D dental segmentation web app  
-  *(React, Three.js, FastAPI, Deep Learning, Vercel)*
-
-- **Full-Stack Java Developer Intern – Urban Municipality**  
-  Administrative management system  
-  *(JavaFX, SQL Server, UML)*
+- ☁️ **Salesforce Development**
+(Lightning Web Components, Apex, SOQL, CRM customization)
 
 ---
 
