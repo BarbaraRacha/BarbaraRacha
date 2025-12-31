@@ -32,19 +32,18 @@
 
 ### 👯 Collaboration Interests  
 
-- **Full-Stack Web Applications**
-- **Distributed Systems & Microservices**
-- **AI / Machine Learning Projects**
+- **Full-Stack Web Developement**
 - **Salesforce Development**
+- **AI / Machine Learning Projects**
 
 ---
 
 ### 💬 Ask Me About  
 
 - **Java, Spring Boot, Microservices**
+- **APIs REST & Distributed Systems**
 - **Angular & React**
 - **Salesforce (LWC, Apex, CRM)**
-- **APIs REST & Distributed Systems**
 
 ---
 
