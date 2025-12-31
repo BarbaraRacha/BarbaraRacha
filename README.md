@@ -95,5 +95,5 @@ MySQL · PostgreSQL · MongoDB · SQL Server
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barbararacha&show_icons=true&locale=en&layout=compact" alt="barbararacha" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=barbararacha" alt="barbararacha" />
 </p>
