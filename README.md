@@ -89,12 +89,3 @@ Docker · Kubernetes · Git/GitHub · Maven · JUnit · Mockito
 
 **Databases**  
 MySQL · PostgreSQL · MongoDB · SQL Server  
-
----
-
-### 📊 GitHub Stats  
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
